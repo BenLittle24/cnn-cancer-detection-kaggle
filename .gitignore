@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Data / outputs
+checkpoint.json
+*.csv
+*.h5
+*.model
+
+# OS junk
+.DS_Store
